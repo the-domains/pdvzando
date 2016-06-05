@@ -1,0 +1,28 @@
+name: PDVzando
+favicon: null
+layout_spectrum: 0.34403008525259793
+typography_spectrum: 0.9200885083992034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#ffff00'
+    - '#d10000'
+    - '#838300'
+    - '#fa5152'
+  brandStrength: 1
+  lightness: 0.9858600269071758
+  saturation: 0.5
+  rhythmicContrast: 0.601905613206327
+purpose: []
